@@ -3,7 +3,7 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%] "
-    Link="/Content/A-Introduction-Topics/Getting-Started again.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    Link="/Content/Getting-Started again.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/A-Introduction-Topics/Whats-New.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
